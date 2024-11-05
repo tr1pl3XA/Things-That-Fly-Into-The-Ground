@@ -6,7 +6,6 @@
 // @icon            https://deltav4.gitlab.io/ext/assets/favicon.ico
 // @match           *://agar.io/*
 // @match           *://deltav4.gitlab.io/*
-// @require         https://cdn.socket.io/3.1.2/socket.io.min.js
 // @run-at          document-start
 // @grant           none
 // ==/UserScript==
