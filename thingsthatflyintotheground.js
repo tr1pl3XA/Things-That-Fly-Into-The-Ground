@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name            Things that fly into the ground
 // @description     extension
-// @namespace       delta.ogario
+// @namespace       things
 // @author          You
-// @icon            https://deltav4.gitlab.io/ext/assets/favicon.ico
-// @match           *://agar.io/*
-// @match           *://deltav4.gitlab.io/*
+// @icon            https://github.com
+// @match           *://*/*
 // @require         https://cdn.socket.io/3.1.2/socket.io.min.js
 // @run-at          document-start
 // @grant           none
