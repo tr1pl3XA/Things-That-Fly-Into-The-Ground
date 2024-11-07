@@ -5,7 +5,7 @@
 // @author          You
 // @icon            https://github.com
 // @match           *://*/*
-// @run-at          document-end
+// @run-at          document-start
 // @grant           none
 // ==/UserScript==
 
