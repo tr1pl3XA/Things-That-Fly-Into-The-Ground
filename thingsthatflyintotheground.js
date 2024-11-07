@@ -5,8 +5,7 @@
 // @author          You
 // @icon            https://github.com
 // @match           *://*/*
-// @require         https://cdn.socket.io/3.1.2/socket.io.min.js
-// @run-at          document-start
+// @run-at          document-end
 // @grant           none
 // ==/UserScript==
 
